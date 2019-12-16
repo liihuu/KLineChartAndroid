@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item
+		android:id="@+id/grid_line"
+		android:title="@string/grid_line"/>
+
+	<item
+		android:id="@+id/show_hide_vol_index"
+		android:title="@string/show_hide_vol_index"/>
+
+	<item
+		android:id="@+id/show_hide_index"
+		android:title="@string/show_hide_index"/>
+
+	<item
+		android:id="@+id/candle_style"
+		android:title="@string/candle_style"/>
+
+	<item
+		android:id="@+id/main_chart_type"
+		android:title="@string/main_chart_type"/>
+
+	<item
+		android:id="@+id/mark_highest_price"
+		android:title="@string/mark_highest_price"/>
+
+	<item
+		android:id="@+id/mark_lowest_price"
+		android:title="@string/mark_lowest_price"/>
+
+	<item
+		android:id="@+id/mark_last_price"
+		android:title="@string/mark_last_price"/>
+
+	<item
+		android:id="@+id/mark_last_price_style"
+		android:title="@string/mark_last_price_style"/>
+
+	<item
+		android:id="@+id/cross_line_style"
+		android:title="@string/cross_line_style"/>
+
+	<item
+		android:id="@+id/index_tooltip_text_display_rule"
+		android:title="@string/index_tooltip_text_display_rule"/>
+
+	<item
+		android:id="@+id/show_hide_x_axis_line"
+		android:title="@string/show_hide_x_axis_line"/>
+
+	<item
+		android:id="@+id/show_hide_x_axis_text"
+		android:title="@string/show_hide_x_axis_text"/>
+
+	<item
+		android:id="@+id/show_hide_x_axis_tick_line"
+		android:title="@string/show_hide_x_axis_tick_line"/>
+
+	<item
+		android:id="@+id/show_hide_x_axis_separator_line"
+		android:title="@string/show_hide_x_axis_separator_line"/>
+
+	<item
+		android:id="@+id/x_axis_separator_line_style"
+		android:title="@string/x_axis_separator_line_style"/>
+
+
+	<item
+		android:id="@+id/y_axis_position"
+		android:title="@string/y_axis_position"/>
+
+	<item
+		android:id="@+id/show_hide_y_axis_line"
+		android:title="@string/show_hide_y_axis_line"/>
+
+	<item
+		android:id="@+id/show_hide_y_axis_text"
+		android:title="@string/show_hide_y_axis_text"/>
+
+	<item
+		android:id="@+id/y_axis_text_position"
+		android:title="@string/y_axis_text_position"/>
+
+	<item
+		android:id="@+id/show_hide_y_axis_tick_line"
+		android:title="@string/show_hide_y_axis_tick_line"/>
+
+	<item
+		android:id="@+id/show_hide_y_axis_separator_line"
+		android:title="@string/show_hide_y_axis_separator_line"/>
+
+	<item
+		android:id="@+id/y_axis_separator_line_style"
+		android:title="@string/y_axis_separator_line_style"/>
+
+</menu>

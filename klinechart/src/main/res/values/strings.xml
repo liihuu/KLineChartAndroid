@@ -1,0 +1,10 @@
+<resources>
+    <string name="time">时间</string>
+    <string name="open_price">开盘</string>
+    <string name="close_price">收盘</string>
+    <string name="highest_price">最高</string>
+    <string name="lowest_price">最低</string>
+    <string name="change">涨额</string>
+    <string name="chg">涨幅</string>
+    <string name="volume">成交量</string>
+</resources>

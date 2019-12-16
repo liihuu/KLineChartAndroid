@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.liihuu.klinechart.KLineChartView
+	android:id="@+id/k_line_chart"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="350dp"
+	android:layout_marginTop="20dp"
+	android:layout_marginBottom="20dp"/>

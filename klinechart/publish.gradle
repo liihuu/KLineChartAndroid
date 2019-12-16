@@ -1,0 +1,14 @@
+apply plugin: 'com.novoda.bintray-release'
+
+publish {
+    artifactId = 'klinechart'
+    uploadName = 'klinechart'
+    publishVersion = "$version_name"
+    userOrg = 'liiiiiihu'
+    repoName = 'maven'
+    groupId = 'com.liihuu.widget'
+    desc = 'A kline UI widget for android'
+    dryRun = false
+    website = 'https://github.com/liihuu/kline'
+    licences = ['MIT']
+}

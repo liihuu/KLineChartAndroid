@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="time">time</string>
+	<string name="open_price">open</string>
+	<string name="close_price">close</string>
+	<string name="highest_price">high</string>
+	<string name="lowest_price">low</string>
+	<string name="change">change</string>
+	<string name="chg">chg</string>
+	<string name="volume">volume</string>
+</resources>

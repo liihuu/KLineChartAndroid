@@ -1,0 +1,138 @@
+<resources>
+	<string name="app_name">K线图示例</string>
+	<string name="main_index">主图指标</string>
+	<string name="sub_index">副图指标</string>
+	<string name="show_hide_vol_index">显示隐藏成交图</string>
+	<string name="show_hide_index">显示隐藏副图</string>
+	<string name="candle_style">蜡烛图样式</string>
+	<string name="main_chart_type">主图类型</string>
+	<string name="grid_line">显示隐藏边框线</string>
+	<string name="mark_highest_price">最高价格标记</string>
+	<string name="mark_lowest_price">最低价格标记</string>
+	<string name="mark_last_price">最新价标记</string>
+	<string name="mark_last_price_style">最新价标记样式</string>
+	<string name="cross_line_style">十字光标线样式</string>
+	<string name="show_hide_x_axis_line">显示隐藏X轴线</string>
+	<string name="show_hide_x_axis_text">显示隐藏X轴刻度文字</string>
+	<string name="show_hide_x_axis_tick_line">显示隐藏X轴刻度线</string>
+	<string name="show_hide_x_axis_separator_line">显示隐藏X轴分割线</string>
+	<string name="x_axis_separator_line_style">X轴上分割线样式</string>
+
+	<string name="y_axis_position">Y轴位置</string>
+	<string name="show_hide_y_axis_line">显示隐藏Y轴线</string>
+	<string name="show_hide_y_axis_text">显示隐藏Y轴刻度文字</string>
+	<string name="y_axis_text_position">Y轴刻度文字位置</string>
+	<string name="show_hide_y_axis_tick_line">显示隐藏Y轴刻度线</string>
+	<string name="show_hide_y_axis_separator_line">显示隐藏Y轴分割线</string>
+	<string name="y_axis_separator_line_style">Y轴上分割线样式</string>
+	<string name="index_tooltip_text_display_rule">指标提示文字显示规则</string>
+
+	<string-array name="line_style">
+		<item>虚线</item>
+		<item>实线</item>
+	</string-array>
+
+	<string-array name="candle_style">
+		<item>全实心</item>
+		<item>全空心</item>
+		<item>涨空心</item>
+		<item>跌空心</item>
+		<item>美国线</item>
+	</string-array>
+
+	<string-array name="main_chart_style">
+		<item>蜡烛图</item>
+		<item>分时线</item>
+	</string-array>
+
+	<string-array name="main_index_type">
+		<item>无</item>
+		<item>MA</item>
+		<item>BOLL</item>
+		<item>SAR</item>
+	</string-array>
+
+	<string-array name="sub_index_type">
+		<item>无</item>
+		<item>MA</item>
+		<item>VOL</item>
+		<item>MACD</item>
+		<item>BOLL</item>
+		<item>KDJ</item>
+		<item>KD</item>
+		<item>RSI</item>
+		<item>BIAS</item>
+		<item>BRAR</item>
+		<item>CCI</item>
+		<item>DMI</item>
+		<item>CR</item>
+		<item>PSY</item>
+		<item>DMA</item>
+		<item>TRIX</item>
+		<item>OBV</item>
+		<item>VR</item>
+		<item>WR</item>
+		<item>MTM</item>
+		<item>EMV</item>
+		<item>SAR</item>
+	</string-array>
+
+	<string-array name="y_axis_postion">
+		<item>左边</item>
+		<item>右边</item>
+	</string-array>
+
+	<string-array name="y_axis_text_position">
+		<item>外面</item>
+		<item>里面</item>
+	</string-array>
+
+	<string-array name="index_tooltip_display_rule">
+		<item>总是显示</item>
+		<item>跟随十字光标显示</item>
+		<item>永不显示</item>
+	</string-array>
+
+	<string name="title_activity_basic">基本展示</string>
+	<string name="title_activity_scrolling">滚动</string>
+	<string name="title_activity_style_setting">样式设置</string>
+	<string name="title_activity_draw_price_mark">自定义绘制价格标记</string>
+	<string name="title_activity_custom_indicator">自定义指标</string>
+	<string name="title_activity_indicator_setting">指标设置</string>
+	<string name="title_activity_draw_tooltip_general_data">绘制自定义提示信息</string>
+	<string name="title_activity_custom_tooltip_general_data">自定义提示信息</string>
+	<string name="title_activity_value_format">值格式化</string>
+	<string name="title_activity_segment_load_data">分段加载数据</string>
+	<string name="title_activity_segment_load_data_with_loading">分段加载数据Loading</string>
+	<string name="title_activity_auto_fill_data">自动填充数据</string>
+
+
+	<string name="custom_indicator_ma5">自定义指标MA5</string>
+	<string name="custom_indicator_ma10">自定义指标MA10</string>
+	<string name="custom_indicator_ma20">自定义指标MA20</string>
+	<string name="fill_data">填充数据</string>
+
+	<string-array name="tooltip_general_data_labels">
+		<item>时间：</item>
+		<item>开：</item>
+		<item>收：</item>
+		<item>高：</item>
+		<item>低：</item>
+		<item>成交量：</item>
+	</string-array>
+
+	<string name="text_large">
+		安卓（Android）是一种基于Linux的自由及开放源代码的操作系统。
+		主要使用于移动设备，如智能手机和平板电脑，由Google公司和开放手机联盟领导及开发。
+		Android操作系统最初由Andy Rubin开发，主要支持手机。
+		2005年8月由Google收购注资。
+		2007年11月，Google与84家硬件制造商、软件开发商及电信营运商组建开放手机联盟共同研发改良Android系统。
+		随后Google以Apache开源许可证的授权方式，发布了Android的源代码。第一部Android智能手机发布于2008年10月。
+		Android逐渐扩展到平板电脑及其他领域上，如电视、数码相机、游戏机、智能手表等。2011年第一季度，
+		Android在全球的市场份额首次超过塞班系统，跃居全球第一。
+		2013年的第四季度，Android平台手机的全球市场份额已经达到78.1%。
+		2013年09月24日谷歌开发的操作系统Android在迎来了5岁生日，全世界采用这款系统的设备数量已经达到10亿台。
+	</string>
+
+
+</resources>
