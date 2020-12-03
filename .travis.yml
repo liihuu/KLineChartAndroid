@@ -5,9 +5,9 @@ branches:
     - master
 before_script:
   # Download desired version of Gradle
-  - wget http://services.gradle.org/distributions/gradle-5.4.1-bin.zip
-  - unzip -qq gradle-5.4.1-bin.zip
-  - export GRADLE_HOME=$PWD/gradle-5.4.1
+  - wget http://services.gradle.org/distributions/gradle-6.7.1-bin.zip
+  - unzip -qq gradle-6.7.1-bin.zip
+  - export GRADLE_HOME=$PWD/gradle-6.7.1
   - export PATH=$GRADLE_HOME/bin:$PATH
   # just to test gradle version, against our provided one
   - gradle -v
