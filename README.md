@@ -1,8 +1,8 @@
 
 # KLineChart[（中文）](./translate/zh-CN.md)
-[![Build Status](https://travis-ci.org/liihuu/kline.svg?branch=master)](https://travis-ci.org/liihuu/kline)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2a664d8f66ba4bd38abe713e6301d711)](https://www.codacy.com/app/liihuu/kline?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=liihuu/kline&amp;utm_campaign=Badge_Grade)
-[![API](https://img.shields.io/badge/API-14%2B-brightgreen.svg?style=flat)](https://github.com/liihuu/kline)
+[![Build Status](https://travis-ci.org/liihuu/KLineChartAndroid.svg?branch=master)](https://travis-ci.org/liihuu/KLineChartAndroid)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2a664d8f66ba4bd38abe713e6301d711)](https://www.codacy.com/app/liihuu/KLineChartAndroid?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=liihuu/kline&amp;utm_campaign=Badge_Grade)
+[![API](https://img.shields.io/badge/API-14%2B-brightgreen.svg?style=flat)](https://github.com/liihuu/KLineChartAndroid)
 [![Download](https://api.bintray.com/packages/liiiiiihu/maven/klinechart/images/download.svg?version=2.2.3) ](https://bintray.com/liiiiiihu/maven/klinechart/2.2.3/link)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 

@@ -19,7 +19,7 @@ android:
   components:
     - platform-tools
     - tools
-    - build-tools-29.0.2
-    - android-29
+    - build-tools-30.0.2
+    - android-30
     - android-19
     - sys-img-armeabi-v7a-android-19
